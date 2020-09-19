@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5ba0dee-22cc-471c-8534-c1a92f56d9b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hSilkQnsqeK3p11RA2rlw9JxLx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2382" y="27" key="FileChooserDialogImpl" timestamp="1600014972157">
+      <screen x="1920" y="-78" width="1366" height="728" />
+    </state>
+    <state x="2382" y="27" key="FileChooserDialogImpl/0.0.1536.824/1920.-78.1366.728@1920.-78.1366.728" timestamp="1600014972157" />
+    <state x="2104" y="-72" key="SettingsEditor" timestamp="1600011280033">
+      <screen x="1920" y="-78" width="1366" height="728" />
+    </state>
+    <state x="2104" y="-72" key="SettingsEditor/0.0.1536.824/1920.-78.1366.728@1920.-78.1366.728" timestamp="1600011280033" />
+  </component>
+</project>
